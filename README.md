@@ -1,4 +1,6 @@
 # EX-NO-9-RSA-Algorithm
+## NAME:AMMINENI MOKSHASREE
+## REG.NO:2305001001
 
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
@@ -99,6 +101,7 @@ int main() {
 
 ## Output:
 
+<img width="487" height="330" alt="image" src="https://github.com/user-attachments/assets/4aebbb76-8b27-4222-9fb7-beb50c167c56" />
 
 
 
